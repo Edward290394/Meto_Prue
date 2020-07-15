@@ -1,0 +1,10 @@
+C:\Users\Gasparin-Mc\Source\Repos\Prueba-Meto\Prueba_Metodologias\bin\Debug\Prueba_Metodologias.exe.config
+C:\Users\Gasparin-Mc\Source\Repos\Prueba-Meto\Prueba_Metodologias\bin\Debug\Prueba_Metodologias.exe
+C:\Users\Gasparin-Mc\Source\Repos\Prueba-Meto\Prueba_Metodologias\bin\Debug\Prueba_Metodologias.pdb
+C:\Users\Gasparin-Mc\Source\Repos\Prueba-Meto\Prueba_Metodologias\obj\Debug\Prueba_Metodologias.csprojAssemblyReference.cache
+C:\Users\Gasparin-Mc\Source\Repos\Prueba-Meto\Prueba_Metodologias\obj\Debug\Prueba_Metodologias.Form1.resources
+C:\Users\Gasparin-Mc\Source\Repos\Prueba-Meto\Prueba_Metodologias\obj\Debug\Prueba_Metodologias.Properties.Resources.resources
+C:\Users\Gasparin-Mc\Source\Repos\Prueba-Meto\Prueba_Metodologias\obj\Debug\Prueba_Metodologias.csproj.GenerateResource.cache
+C:\Users\Gasparin-Mc\Source\Repos\Prueba-Meto\Prueba_Metodologias\obj\Debug\Prueba_Metodologias.csproj.CoreCompileInputs.cache
+C:\Users\Gasparin-Mc\Source\Repos\Prueba-Meto\Prueba_Metodologias\obj\Debug\Prueba_Metodologias.exe
+C:\Users\Gasparin-Mc\Source\Repos\Prueba-Meto\Prueba_Metodologias\obj\Debug\Prueba_Metodologias.pdb
